@@ -289,3 +289,42 @@ td.submitRow {
     width: 50%;
 
 }
+
+
+
+.loginLink a:link {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+input.queryField {
+
+    width: 136px;
+    vertical-align: center;
+    font-size: 8pt;
+    font-family: verdana, arial, helvetica;
+
+}
+
+input.searchBtnFl {
+
+    font-size: 7pt;
+    background: #B93601;
+    color: #EBD1B4;
+    border: 1px solid #EBD1B4;
+
+}
+
+a.groupOther5:link, a.groupOther5:visited, a.groupOther5:hover {
+
+    color: darkgreen;
+
+}
+
+a.groupBanned:link, a.groupBanned:visited, a.groupBanned:hover {
+
+    color: white;
+
+}
